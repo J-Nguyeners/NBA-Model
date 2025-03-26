@@ -21,7 +21,7 @@
 
 ## Preview
 - Image of model making predictions on Cleveland Cavaliers player Darius Garland.
-
+![alt text](image.png)
 
 
 

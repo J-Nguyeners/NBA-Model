@@ -18,8 +18,7 @@
 
 ## Files Included
 - NBA Model.xlsx – Main tool
-- data/ – (optional) sample datasets
-- screenshots/ – (optional) visuals of the tool in action
 
 ## Preview
-*(Include a screenshot or GIF of your model in use)*
+![alt text](image.png)
+

@@ -10,6 +10,7 @@
 
 ## Future Goals
 - Automatically fetch PrizePicks player stat lines when a player’s name is entered.
+- Expand the dataset to include comprehensive data for all NBA players, enabling projections across the entire league rather than just a single team.
 
 ## Tools Used
 - Microsoft Excel
